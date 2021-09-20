@@ -21,5 +21,16 @@ Also, if you want to run the model on the custom data, you can run the following
 
     python train.py -d DATADIR
     
+# Results
+After 10 epochs of training, the cross entropy loss is reduced 0.98 and the result is fantastic.
+<p>
+<center>158</center>
+Whod me do I hold my distill doth her own,
+That leaves be repent her featered born,
+Compare the old virtue rehearse of thy di?.
+  If thy proud hath like thy love doth lies,
+To mak'st then fire hate on you to my name'.
+</p>
+    
 # Acknowledgement
 I want to thank specially to nikhilbarhate99. Without his inspiration this repo is unable to finish.
