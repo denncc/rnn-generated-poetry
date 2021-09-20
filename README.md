@@ -25,10 +25,10 @@ Also, if you want to run the model on the custom data, you can run the following
 After 10 epochs of training, the cross entropy loss is reduced 0.98 and the result is fantastic.
 <p align="center">
 <center>158</center>
-Whod me do I hold my distill doth her own,
-That leaves be repent her featered born,
-Compare the old virtue rehearse of thy di?.
-  If thy proud hath like thy love doth lies,
+Whod me do I hold my distill doth her own,<br>
+That leaves be repent her featered born,<br>
+Compare the old virtue rehearse of thy di?.<br>
+  If thy proud hath like thy love doth lies,<br>
 To mak'st then fire hate on you to my name'.
 </p>
     
