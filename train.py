@@ -4,6 +4,7 @@ import torch.nn.functional as F
 from torch.distributions import Categorical
 import numpy as np
 from torch.autograd import Variable
+import sys
 
 from model import RNN
 
@@ -122,4 +123,8 @@ def train(data_path = "./poem_data/shakespeare.txt"):
             
         print("\n----------------------------------------")
 
-train()
+if __name__ == "__main__":
+    if len(sys.argv) == 1:
+        train()
+    if len(sys.argv) == 3 and sys.argv[1] == "-d":
+        train(sys.argv[2])
