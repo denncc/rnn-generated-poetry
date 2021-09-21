@@ -22,7 +22,7 @@ Also, if you want to run the model on the custom data, you can run the following
     python train.py -d DATADIR
     
 # Results
-After 10 epochs of training, the cross entropy loss is reduced 0.98 and the result is fantastic.
+After 10 epochs of training, the cross entropy loss is reduced 0.98 and the result is pretty good.
 
 <p align="center">
 158<br>
