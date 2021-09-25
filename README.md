@@ -22,7 +22,7 @@ Also, if you want to run the model on the custom data, you can run the following
     python train.py -d DATADIR
     
 # Results
-After 10 epochs of training, the cross entropy loss is reduced 0.98 and the result is pretty good.
+After 40 epochs of training, the cross entropy training loss is reduced to 0.55. Here are some of the test poems generations.
 
 <p align="center">
 158<br>
